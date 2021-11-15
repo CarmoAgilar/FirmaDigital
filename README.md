@@ -1,3 +1,3 @@
 Nombres:
-Carmona Aguilar Diego
+Carmona Aguilar Diego; 
 Martinez Zaragoza Alan Gael
